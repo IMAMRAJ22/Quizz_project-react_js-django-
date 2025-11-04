@@ -1,1 +1,1 @@
-web: gunicorn quizz_project.wsgi
+web: gunicorn api.wsgi
